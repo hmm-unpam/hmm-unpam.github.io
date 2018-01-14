@@ -9,11 +9,11 @@ Himpunan Mahasiswa Manajemen Universitas Pamulang (HMM-UNPAM) merupakan organisa
 
 Sebelum Himpunan Mahasiswa Manajemen diresmikan, HMM mempunyai nama asli yaitu COMMENT singkatan dari Community Of  Management. Setelah terbentuknya COMMENT selama kurun waktu 5 tahun. kemudian terjadi pengantian ketua sebanyak 3 kali dalam periode tersebut, yaitu:
 
-Ketua  Periode I   : Zaki Zamani
+``Ketua  Periode I   : Zaki Zamani``
 
-Ketua Periode II   : Lala
+``Ketua Periode II   : Lala``
 
-Ketua Periode III  : Dadang Suryana
+``Ketua Periode III  : Dadang Suryana``
 
 Selama periode tersebut kemudian nama COMMENT pun berubah menjadi HIMPUNAN MAHASISWA MANAJEMEN (HMM) sampai dengan saat ini. dan diresmikan pada hari selasa, 6 Juni 2006 oleh Rektor Universitas Pamulang, Kaprodi, dan dihadiri oleh Para Dosen, Anggota dan Pengurus HMM pada saat itu.
 
@@ -21,49 +21,49 @@ Sebagai Organisasi yang masih terbilang muda, HMM Unpam selalu berusaha meningka
 
 Selama selang waktu 11 tahun HMM telah 8 kali berganti kepemimpinan, yaitu :
 
-Periode 2008-2010
+``Periode 2008-2010``
 
 Ketua    Umum                   : Dadang Suryana, SE.
 
 Wakil     Ketua Umum     : Yudit, SE.
 
-Periode 2011-2012
+``Periode 2011-2012``
 
 Ketua    Umum                   : Aden Prawiro, SE.
 
 Wakil     Ketua Umum     : Heri Irawan, SE.
 
-Periode 2012-2013
+``Periode 2012-2013``
 
 Ketua    Umum                   : Abdul Majid, SE.
 
 Wakil     Ketua Umum     : Tarmidji, SE.
 
-Periode 2013-2014
+``Periode 2013-2014``
 
 Ketua    Umum                   : Andri Priadi, SE.
 
 Wakil     Ketua Umum     : Muhammad Zuber Qomaruddin, SE.
 
-Periode 2014 – 2015
+``Periode 2014 – 2015``
 
 Ketua    Umum                   : Muhammad Zuber Qomaruddin, SE.
 
 Wakil     Ketua Umum     : Foppy Wulansari, SE.
 
-Periode 2015 – 2016
+``Periode 2015 – 2016``
 
 Ketua    Umum                   : Aditya Bayu Wardana
 
 Wakil     Ketua Umum     : Fatricia Fransisca
 
-Periode 2016 – 2017
+``Periode 2016 – 2017``
 
 Ketua    Umum                   : Aan Widya Junianto
 
 Wakil     Ketua Umum       : Muhammad Ridwan
 
-Periode 2017 – 2018
+``Periode 2017 – 2018``
 
 Ketua Umum                      : Malik Abdul Aziz
 
@@ -73,19 +73,19 @@ Wakil Ketua Umum         : Guntur Wijaya Putra
 
 HMM memiliki 7 Divisi dalam mengorganisasikan pengurusnya, antara lain:
 
-```Divisi Pendayagunaan Aparatur Organisasi (PAO)
+``Divisi Pendayagunaan Aparatur Organisasi (PAO)``
 
-Divisi Kewirausahaan (KWH)
+``Divisi Kewirausahaan (KWH)``
 
-Divisi Pendidikan & Budaya (DIKBUD)
+``Divisi Pendidikan & Budaya (DIKBUD)``
 
-Divisi Kerohanian
+``Divisi Kerohanian``
 
-Divisi Advokasi & Kesejahteraan Mahasiswa (ADKESMA)
+``Divisi Advokasi & Kesejahteraan Mahasiswa (ADKESMA)``
 
-Divisi Minat, Bakat & Olahraga (MBO)
+``Divisi Minat, Bakat & Olahraga (MBO)``
 
-Divisi Hubungan Masyarakat & Informasi Komunikasi (HUMAS & INFOKOM)```
+``Divisi Hubungan Masyarakat & Informasi Komunikasi (HUMAS & INFOKOM)``
 
 HMM akan terus berproses menjadi Organisasi yang lebih besar, maka dari itu HMM selalu melakukan penganggotaan 
 kepemimpinan, baik itu lewat LDKO (Latihan Dasar Kepemimpinan Organisasi) maupun lewat pelatihan-pelatihan lainnya yang diperuntukkan bagi pengurus HMM, sehingga para penggurus HMM benar menjadi agent of change bangsa Indonesia nantinya.
