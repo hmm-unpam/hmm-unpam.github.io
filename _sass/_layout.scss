@@ -8,8 +8,8 @@ html,body {
 }
 
 .navbar-default {
-    border-color: transparent;
-    background-color: transparent;
+    border-color: $brand-color;
+    background-color: $brand-color;
     padding: 10px 0;
     border-bottom: 1px solid #eee;
 }
