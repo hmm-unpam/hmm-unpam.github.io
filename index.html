@@ -21,9 +21,8 @@ layout: default
 
 <div class="home">
  
-  
+    <h2 text-center>Artikel Terbaru</h2>
     <div class="row pack">
-      <h2 text-center>Artikel Terbaru</h>
         {% for post in paginator.posts %}   
             <div class="col-md-4 card">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
